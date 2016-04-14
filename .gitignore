@@ -1,6 +1,3 @@
-.eunit
-deps
-*.o
-*.beam
-*.plt
-erl_crash.dump
+/ebin/
+/priv/*.so
+/c_src/*.o
